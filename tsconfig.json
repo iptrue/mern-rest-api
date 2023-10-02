@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "outDir": "./dist",
+    "target": "esnext",
+    "sourceMap": true,
+    "declaration": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+  },
+  "include" : [
+    "src/**/*",
+    "tests/**/*"
+  ]
+}
