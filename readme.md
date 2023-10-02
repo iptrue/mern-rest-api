@@ -1,4 +1,3 @@
-My Server
 
 This is a server application built with Node.js and Express.js. It provides various API endpoints to interact with a
 MongoDB database using the Prisma ORM. The server supports user registration, login, authentication, and CRUD operations
